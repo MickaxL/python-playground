@@ -1,0 +1,25 @@
+#link vscode to Github
+
+REQUIREMENT :
+    - vscode 
+    - Github account
+
+    - install Github (offical website) https://git-scm.com/download/win
+    - lunch the .exex 
+    
+    - Open vscode
+        - open cmd 
+            : git --version
+    
+    vscode :
+        - install Github pull request extension
+    
+    terminal : 
+        git config --global user.name "user"         
+        git config --global user.email "email@gmail.com"  
+
+cli update : 
+
+    git add .                  
+    git commit -m "text"
+    git push origin main
