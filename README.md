@@ -8,3 +8,5 @@
 | [IP_scanner](./IP_scanner/)     | Simple TCP port scanner (checks open ports on a target IP)                                   
 | [ServerTCP_MultiThread](./ServerTCP_MultiThread/) | Basic multithreaded TCP server + simple client                             
 | [ServerDNS_MultiThread](./ServerDNS_MultiThread/) | Early work on a multithreaded DNS-like server + client                     
+
+next : Un parser de logs simples (lire un fichier access.log Apache/Nginx et compter IPs suspectes, user-agents, etc.)
